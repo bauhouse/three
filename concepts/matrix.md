@@ -40,13 +40,13 @@
 <table style="width: 100%">
 <tbody>
 <tr>
-<th>Objects</th>
-<td>Food</td>
-<td>Clothing</td>
-<td>Shelter</td>
-<td>Art</td>
-<td>Music</td>
-<td>Culture</td>
+<th style="width: 10%">Objects</th>
+<td style="width: 15%">Food</td>
+<td style="width: 15%">Clothing</td>
+<td style="width: 15%">Shelter</td>
+<td style="width: 15%">Art</td>
+<td style="width: 15%">Music</td>
+<td style="width: 15%">Culture</td>
 </tr>
 <tr>
 <th>Processes</th>
