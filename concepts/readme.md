@@ -1,5 +1,7 @@
 # Concepts
 
+[![resilience-presentation-2019-10-19-28](https://live.staticflickr.com/65535/49803898822_9c606877bd_b.jpg)](https://flic.kr/p/2iSZZYJ)
+
 ## Food
 
 Nutrients and energy to support the health and well-being of an active body
@@ -142,4 +144,4 @@ A longing and intention for the good of all through empathy, compassion, and car
 
 ## Love
 
-A physical expression of truth, beauty, and goodness in the form of action in reality 
+A physical expression of truth, beauty, and goodness in the form of action in reality
