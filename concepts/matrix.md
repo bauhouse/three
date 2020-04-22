@@ -38,15 +38,49 @@
 
 
 <table style="width: 100%">
+<thead>
+<tr>
+<th></th>
+<th colspan="3">Physical / Concrete / Mundane / Experience</th>
+<th colspan="3">Metaphysical / Abstract / Transcendent / Narrative</th>
+</tr>
+</thead>
 <tbody>
 <tr>
-<th style="width: 10%">Objects</th>
-<td style="width: 15%">Food</td>
-<td style="width: 15%">Clothing</td>
-<td style="width: 15%">Shelter</td>
-<td style="width: 15%">Art</td>
-<td style="width: 15%">Music</td>
-<td style="width: 15%">Culture</td>
+<th>Objects</th>
+<td>Food</td>
+<td>Clothing</td>
+<td>Shelter</td>
+<td>Art</td>
+<td>Music</td>
+<td>Culture</td>
+</tr>
+<tr>
+<th>Processes</th>
+<td>Wisdom</td>
+<td>Ecology</td>
+<td>Work</td>
+<td>Imagine</td>
+<td>Design</td>
+<td>Build</td>
+</tr>
+<tr>
+<th>Reality</th>
+<td>Concepts</td>
+<td>Prototypes</td>
+<td>Products</td>
+<td>Time</td>
+<td>Energy</td>
+<td>Matter</td>
+</tr>
+<tr>
+<th>Objects</th>
+<td>Food</td>
+<td>Clothing</td>
+<td>Shelter</td>
+<td>Art</td>
+<td>Music</td>
+<td>Culture</td>
 </tr>
 <tr>
 <th>Processes</th>
