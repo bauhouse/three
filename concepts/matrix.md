@@ -4,8 +4,8 @@
 <thead>
 <tr>
 <th colspan="2"></th>
-<th colspan="3">Physical / Concrete / Mundane / Experience</th>
-<th colspan="3">Metaphysical / Abstract / Transcendent / Narrative</th>
+<th colspan="3" style="font-size: 9; text-transform: uppercase;">Physical / Concrete / Mundane / Experience</th>
+<th colspan="3" style="font-size: 9; text-transform: uppercase;">Metaphysical / Abstract / Transcendent / Narrative</th>
 </tr>
 </thead>
 <tbody>
