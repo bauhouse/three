@@ -10,7 +10,7 @@
 </thead>
 <tbody>
 <tr>
-<th align="left" rowspan="3">Tangible</th>
+<th align="left" valign="top" rowspan="3">Tangible</th>
 <th align="left">Objects</th>
 <td>Food</td>
 <td>Clothing</td>
@@ -38,7 +38,7 @@
 <td>Matter</td>
 </tr>
 <tr>
-<th align="left" rowspan="3">Intangible</th>
+<th align="left" valign="top" rowspan="3">Intangible</th>
 <th align="left">Being</th>
 <td>Past</td>
 <td>Present</td>
