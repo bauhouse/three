@@ -74,7 +74,7 @@
 <td>Matter</td>
 </tr>
 <tr>
-<th align="left">Objects</th>
+<th align="left">Being</th>
 <td>Past</td>
 <td>Present</td>
 <td>Future</td>
@@ -83,7 +83,7 @@
 <td>Action</td>
 </tr>
 <tr>
-<th align="left">Processes</th>
+<th align="left">Knowing</th>
 <td>Meaning</td>
 <td>Purpose</td>
 <td>Belonging</td>
@@ -92,7 +92,7 @@
 <td>Good</td>
 </tr>
 <tr>
-<th align="left">Reality</th>
+<th align="left">Doing</th>
 <td>Mind</td>
 <td>Spirit</td>
 <td>Body</td>
