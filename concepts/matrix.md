@@ -47,7 +47,7 @@
 </thead>
 <tbody>
 <tr>
-<th>Objects</th>
+<th align="left">Objects</th>
 <td>Food</td>
 <td>Clothing</td>
 <td>Shelter</td>
@@ -56,7 +56,7 @@
 <td>Culture</td>
 </tr>
 <tr>
-<th>Processes</th>
+<th align="left">Processes</th>
 <td>Wisdom</td>
 <td>Ecology</td>
 <td>Work</td>
@@ -65,40 +65,40 @@
 <td>Build</td>
 </tr>
 <tr>
-<th>Reality</th>
+<th align="left">Reality</th>
 <td>Concepts</td>
 <td>Prototypes</td>
 <td>Products</td>
-<td>Time</td>
+<td>Cognition</td>
 <td>Energy</td>
 <td>Matter</td>
 </tr>
 <tr>
-<th>Objects</th>
-<td>Food</td>
-<td>Clothing</td>
-<td>Shelter</td>
-<td>Art</td>
-<td>Music</td>
-<td>Culture</td>
+<th align="left">Objects</th>
+<td>Past</td>
+<td>Present</td>
+<td>Future</td>
+<td>Cognition</td>
+<td>Emotion</td>
+<td>Action</td>
 </tr>
 <tr>
-<th>Processes</th>
-<td>Wisdom</td>
-<td>Ecology</td>
-<td>Work</td>
-<td>Imagine</td>
-<td>Design</td>
-<td>Build</td>
+<th align="left">Processes</th>
+<td>Meaning</td>
+<td>Purpose</td>
+<td>Belonging</td>
+<td>Truth</td>
+<td>Beauty</td>
+<td>Good</td>
 </tr>
 <tr>
-<th>Reality</th>
-<td>Concepts</td>
-<td>Prototypes</td>
-<td>Products</td>
-<td>Time</td>
-<td>Energy</td>
-<td>Matter</td>
+<th align="left">Reality</th>
+<td>Mind</td>
+<td>Spirit</td>
+<td>Body</td>
+<td>Faith</td>
+<td>Hope</td>
+<td>Love</td>
 </tr>
 </tbody>
 </table>
