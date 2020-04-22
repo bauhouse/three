@@ -4,6 +4,7 @@
 
 ### Physical / Concrete / Mundane / Experience
 
+| 1          | 2          | 3          |
 |:---------- |:---------- |:---------- |
 | Food       | Clothing   | Shelter    |
 | Wisdom     | Ecology    | Work       |
@@ -11,6 +12,7 @@
 
 ### Metaphysical / Abstract / Transcendent / Narrative
 
+| 1          | 2          | 3          |
 |:---------- |:---------- |:---------- |
 | Art        | Music      | Culture    |
 | Imagine    | Design     | Build      |
@@ -20,6 +22,7 @@
 
 ### Physical / Concrete / Mundane / Experience
 
+| 1          | 2          | 3          |
 |:---------- |:---------- |:---------- |
 | Past       | Present    | Future     |
 | Meaning    | Purpose    | Belonging  |
@@ -27,6 +30,7 @@
 
 ### Metaphysical / Abstract / Transcendent / Narrative
 
+| 1          | 2          | 3          |
 |:---------- |:---------- |:---------- |
 | Cognition  | Emotion    | Action     |
 | Truth      | Beauty     | Good       |
