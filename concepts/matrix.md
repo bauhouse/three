@@ -37,7 +37,7 @@
 | Faith      | Hope       | Love       |
 
 
-<table>
+<table width="100%">
 <tbody>
 <tr>
 <th>Objects</th>
