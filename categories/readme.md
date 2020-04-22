@@ -4,6 +4,8 @@
 
 According to the philosopher Piyush Mathur (2017), “Tangibility is the property that a phenomenon exhibits if it has and/or transports mass and/or energy and/or momentum.” A commonplace understanding of "tangibility" renders it as an attribute allowing something to be perceptible to the senses.
 
+[![resilience-presentation-2019-10-19-29](https://live.staticflickr.com/65535/49803043303_c5f4567deb_b.jpg)](https://flic.kr/p/2iSVBEp)
+
 ### Objects
 
 An object has identity (each object is a distinct individual). An object has state (it has various properties, which might change). An object has behaviour (it can do things and can have things done to it).
@@ -32,6 +34,8 @@ The world or the state of things as they actually exist, as opposed to an ideali
 Unable to be touched or grasped; not having physical presence.
 
 An intangible asset is an asset that lacks physical substance; in contrast to physical assets, such as machinery and buildings, and financial assets such as government securities. An intangible asset is usually very hard to evaluate. Examples are patents, copyright, franchises, goodwill, trademarks, and trade names.
+
+[![resilience-presentation-2019-10-19-29](https://live.staticflickr.com/65535/49803043178_551e415ef9_b.jpg)](https://flic.kr/p/2iSVBCf)
 
 ### Being
 
